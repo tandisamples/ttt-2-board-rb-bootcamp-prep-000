@@ -1,4 +1,5 @@
 # Define the variable board below
+puts board =
 def display_board
   puts row = ["   " "|" "   " "|" "   "]
   puts separator = "-----------"
