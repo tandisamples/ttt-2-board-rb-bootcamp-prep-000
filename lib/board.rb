@@ -1,5 +1,5 @@
 # Define the variable board below
-def 
+def board
 row = [" ", " ", " "]
 # Position 1: Left 
 row[0] 
