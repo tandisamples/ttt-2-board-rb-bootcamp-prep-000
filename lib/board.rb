@@ -1,3 +1,4 @@
 # Define the variable board below
-puts board
+def board
+  
 
